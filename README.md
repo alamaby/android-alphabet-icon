@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 # android-alphabet-icon
 A list of Android applications that has (or resemble) an alphabet icons. Useful for creating a screenshot of home screen.
 
